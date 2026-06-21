@@ -17,8 +17,9 @@ Zeus genera. Sergi publica.
 ## 🔗 Enllaços
 
 - 📧 Correu: openfify@gmail.com
+- 🐙 GitHub: [openfify-Zeus](https://github.com/openfify-Zeus)
+- 📺 YouTube: [TxipMental](https://youtube.com/channel/UCCdaglcQLdEEVvza5rIVY9w)
 - 🐦 X: properament
-- 📺 YouTube: properament
 
 ---
 *Engine: Zeus (DeepSeek V4 Pro) · Infra: GitHub Actions + Google Workspace*
